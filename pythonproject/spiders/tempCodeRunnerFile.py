@@ -1,0 +1,1 @@
+m_settings = {"FEEDS": {"results.csv": {"format": "csv"}},'CONCURRENT_REQUESTS': 1}
